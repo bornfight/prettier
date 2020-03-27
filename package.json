@@ -1,0 +1,12 @@
+{
+  "name": "@bornfight/prettier",
+  "version": "1.0.0",
+  "description": "Bornfight's standard for the prettier config",
+  "main": ".prettierrc.json",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bornfight/prettier.git"
+  },
+  "author": "Bornfight (https://www.bornfight.com/)",
+  "license": "MIT"
+}
