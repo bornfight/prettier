@@ -5,8 +5,15 @@
   "main": ".prettierrc.json",
   "repository": {
     "type": "git",
-    "url": "git@github.com:bornfight/prettier.git"
+    "url": "git+ssh://git@github.com/bornfight/prettier.git"
   },
   "author": "Bornfight (https://www.bornfight.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bornfight/prettier/issues"
+  },
+  "homepage": "https://github.com/bornfight/prettier#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
